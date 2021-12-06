@@ -7,4 +7,4 @@ except:
 else:
     print("Cool, it is working!")
 finally:
-    print("I am alway running, heh :)")
+    print("REMOTE")
